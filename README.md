@@ -1,5 +1,4 @@
-<h1>Hi, I'm Weston! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+<h1>Hi, I'm Weston! <br/><a href="https://github.com/WestonE00"></a>  <a href="https://www.linkedin.com/in/weston-ewing/">Cybersecurity Professional</a>
 <h2> Cybersecurity and Azure Projects:</h2>
 
 - <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
